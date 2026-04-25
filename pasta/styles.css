@@ -1,0 +1,20 @@
+/* This selector targets all <h1> elements 
+and makes them red */
+
+.tomato-thing {
+    color: red;
+    font-family: "Brush Script MT", cursive;
+}
+
+
+#noodles {
+    color: beiget;
+}
+
+#tomato {
+    color: tomato;
+}
+
+#parsley {
+    color: lightgreen;
+}
